@@ -1,3 +1,3 @@
-# stack.js
+# Bigcommerce API - Hackathon presentation
 
-A presentation library with intuitive, scroll-based navigation.
+This is why you should use Bigcommerce APIs to build your kick-ass applications! Seriously. Give it a spin. :)
